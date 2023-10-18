@@ -11,7 +11,7 @@ This project is licensed under the [CC BY-NC-SA 4.0](https://creativecommons.org
 
 - **CC BY-NC-SA 4.0**: This license allows others to remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the same terms.
 
-For the full text of the license, see the [LICENSE.md](LICENSE) file in this repository.
+For the full text of the license, see the [LICENSE.md](LICENSE.md) file in this repository.
 <!-- 
 ## Getting Started
 
